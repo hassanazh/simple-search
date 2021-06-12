@@ -1,4 +1,4 @@
-#Simple search application
+## Simple search application
 
 ### Requirement
 This should read all the text files in the given directory, building an in memory representation of the files and their contents, and then give a command prompt at which interactive searches can be performed.
