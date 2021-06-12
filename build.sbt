@@ -26,8 +26,6 @@ javacOptions ++= Seq(
 
 fork in Test := false
 parallelExecution in Test := true
-fork in IntegrationTest := true
-parallelExecution in IntegrationTest := true
 
 libraryDependencies ++= Seq(
   "org.scalamock" %% "scalamock" % "5.1.0" % Test,
