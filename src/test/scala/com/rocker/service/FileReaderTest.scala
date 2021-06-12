@@ -1,6 +1,6 @@
 package com.rocker.service
 
-import com.rocker.service.FileReader.{MissingPathArg, NotDirectory, index, iterate, matchKeyWords, readFiles}
+import com.rocker.service.FileReader.{MissingPathArg, NotDirectory, index, matchKeyWords, readFiles}
 import org.scalatest.EitherValues
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
